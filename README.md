@@ -33,14 +33,13 @@ Ask it to add unit tests to the code. AI agents are at their best when they can 
 # Where to go from here
 AI Agents can work with stuff much more complicated than a simple example like FizzBuzz. So start to experiment with it!
 
-Here's an idea to get you started:
+Here's an idea to get you started. You'll be surprised by how quickly it comes together
 ```
 Create a terminal-based point-of-sale system written in python with order taking, tax calculation, receipt generation.
 ```
 
-The fastest way you'll learn is to experiment with your actual work. Just for fun. Try to complete a small ticket from work only with an AI Agent. Don't actually write any code.
-
 # Few words of advice before you go
+- The fastest way you'll learn is to experiment with your actual work. Try to complete a small ticket only with an AI Agent.
 - Don't expect it to complete a task with one prompt, you're going to need to guide it like the Navigator in pair programming
 - Give it the context it'll need to solve the problem
 - AI Agents are best if they can validate their output, so ask it to write tests
